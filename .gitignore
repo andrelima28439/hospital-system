@@ -1,0 +1,14 @@
+node_modules/
+build/
+target/
+*.jar
+*.class
+*.log
+.env
+.env.local
+.DS_Store
+.idea/
+*.iml
+.vscode/
+uploads/
+logs/
