@@ -444,7 +444,7 @@ POST   /invoices/{id}/cancel           # Cancelar
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/hospital-management-system.git
+git clone https://github.com/andrelima28439/hospital-management-system.git
 cd hospital-system
 
 # Inicie todos os serviços
